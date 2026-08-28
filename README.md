@@ -1,6 +1,6 @@
 # Python Experiments
 
-This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, Foundations of Data Science at Mississippi State University.
+This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, *Foundations of Data Science* at Mississippi State University.
 
 ---
 ## Plan
@@ -11,11 +11,11 @@ Future plans for this repository include adding a sample data file and a [Jupyte
 
 ## About Me
 
-I am Chris Izenour, and I work as a government contractor. **Data Science** is becoming one of my passions.
+I am Chris Izenour, and I work as a government contractor. **Data Science** is both a passion and a profession.
 
 My data science competencies include:
-- Computer Applications
-- Managing Projects through GitHub
+- Machine Learning
+- Leading Technical Team
 - Python Programming
 - Data Wrangling
 
